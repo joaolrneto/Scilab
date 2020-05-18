@@ -1,2 +1,2 @@
-# code_Scilab
+# Scilab
  Scilab tutorial
