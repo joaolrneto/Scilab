@@ -3,13 +3,16 @@
 # Objetivo
  O objetivo deste repositório é compartilhar códigos e tutoriais relativos ao ambiente e a linguagem de programação do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
  
+ # Considerações Iniciais
+ 
+ As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> clique aqui Bytecode IOT Module</a>.
+
+Fonte dos dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> clique aqui Johns Hopkins</a>
+
+O código "Casos Covid-19" esta disponível no sitio do <a target= 'new' href = "https://www.scilab.org/tutorials"> clique aqui Scilab tutoriais</a>.
+ 
 # Geral
  <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
-	
-
-As funções xtick2string e ytick2string necessárias para o código <b>Casos Covid-19</p> estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module</a>.
-
-
 	
 # Programação com Scilab 
 <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Programação com Scilab</a> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
