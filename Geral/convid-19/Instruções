@@ -1,0 +1,6 @@
+Necessário instalar o Módulo IoT
+As funções xtick2string e ytick2string estão disponíveis no Módulo IoT - ByteCode.
+https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1
+---------------------------------------------------------------------------------
+Fonte dos dados - Johns Hopkins
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series
