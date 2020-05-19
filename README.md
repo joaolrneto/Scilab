@@ -2,7 +2,7 @@
  O objetivo deste repositório é compartilhar códigos e tutoriais relativos ao ambiente e a linguagem de programação do Scilab.
  <p>A pasta <b>Geral</b> contém conteúdos e exercícios de assuntos diversos acerca do Scilab.
 <p>A pasta <b>Programação com Scilab</b> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
-	<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.12908&type=3&subid=0">Lean on learning to reach your next goal. Udemy</a><img border="0" width="1" alt="" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.12908&type=3&subid=0" >
+	<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.12908&type=3&subid=0"> Udemy</a><img border="0" width="1" alt="" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.12908&type=3&subid=0" >
 	
 	
 	
