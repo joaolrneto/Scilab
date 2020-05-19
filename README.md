@@ -3,7 +3,7 @@
 # Objetivo
  O objetivo deste repositório é compartilhar códigos e tutoriais relativos ao ambiente e a linguagem de programação do Scilab.
  
-# Pasta Geral
+# Geral
  <p>A pasta <b>Geral</b> contém conteúdos e exercícios de assuntos diversos acerca do Scilab.
 	
 # Programação com Scilab 
