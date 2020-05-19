@@ -5,7 +5,7 @@
  
  # Considerações Iniciais
  
- As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> clique aqui Bytecode IOT Module</a>.
+ As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module (clique aqui)</a>.
 
 Fonte dos dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> clique aqui Johns Hopkins</a>
 
