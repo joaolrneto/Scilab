@@ -9,7 +9,7 @@
 
 Fonte dos dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> clique aqui Johns Hopkins</a>
 
-O código "Casos Covid-19" esta disponível no sitio do <a target= 'new' href = "https://www.scilab.org/tutorials"> clique aqui Scilab tutoriais</a>.
+O código "Casos Covid-19" está disponível no sitio do <a target= 'new' href = "https://www.scilab.org/tutorials"> clique aqui Scilab tutoriais</a>.
  
 # Geral
  <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
