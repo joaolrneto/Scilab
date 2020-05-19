@@ -1,7 +1,7 @@
 # Benvindo
 
 # Objetivo
- O objetivo deste repositório é compartilhar códigos e tutoriais relativos ao ambiente e a linguagem de programação do Scilab.
+ O objetivo deste repositório é compartilhar códigos e tutoriais relativos ao ambiente e a linguagem de programação do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
  
 # Geral
  <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a> contém conteúdos e exercícios de assuntos diversos acerca do Scilab.
