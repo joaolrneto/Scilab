@@ -1,8 +1,6 @@
 Necessário instalar o Módulo IoT
 As funções xtick2string e ytick2string estão disponíveis no <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Módulo IoT - ByteCodeGeral"> Geral</a>
 Módulo IoT - ByteCode.
-<a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a>
-
 https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1
 ---------------------------------------------------------------------------------
 Fonte dos dados - Johns Hopkins
