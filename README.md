@@ -4,7 +4,7 @@
  O objetivo deste repositório é compartilhar códigos e tutoriais relativos ao ambiente e a linguagem de programação do Scilab.
  
 # Geral
- <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral" Geral<\a> contém conteúdos e exercícios de assuntos diversos acerca do Scilab.
+ <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral<\a> contém conteúdos e exercícios de assuntos diversos acerca do Scilab.
 	
 # Programação com Scilab 
 <p>A pasta <b>Programação com Scilab</b> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
