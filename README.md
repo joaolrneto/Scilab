@@ -5,8 +5,8 @@
  
 # Geral
  <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
-Necessário instalar o Módulo IoT
-As funções xtick2string e ytick2string estão disponíveis no <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Módulo IoT - ByteCodeGeral"> Geral</a>
+<p>Necessário instalar o Módulo IoT para as funções xtick2string e ytick2string que estão disponíveis no
+<p><a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Módulo IoT - ByteCodeGeral
 Módulo IoT - ByteCode.
 https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1
 ---------------------------------------------------------------------------------
