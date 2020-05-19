@@ -7,7 +7,7 @@
  <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
 	
 
-As funções xtick2string e ytick2string estão disponíveis no <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Módulo IoT - ByteCode</a>.
+As funções xtick2string e ytick2string necessárias para o código <b>Casos Covid-19</p> estão disponíveis no <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Módulo IoT - ByteCode</a>.
 
 
 	
