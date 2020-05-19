@@ -6,6 +6,11 @@
 # Geral
  <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
 	
+
+As funções xtick2string e ytick2string estão disponíveis no <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Módulo IoT - ByteCode</a>.
+
+
+	
 # Programação com Scilab 
 <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Programação com Scilab</a> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
 	<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.12908&type=3&subid=0"> Udemy.</a><img border="0" width="1" alt="" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.12908&type=3&subid=0" >
