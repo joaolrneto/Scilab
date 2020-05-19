@@ -1,6 +1,6 @@
 clc
 clear
-close()
+mtlb_close all
 exec importdata.sci;
 exec model2.sci;
 exec loss1.sci;
