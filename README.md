@@ -5,7 +5,7 @@ Observe as informações a seguir.
  
  As orientações a seguir são importantes para os códigos "Casos Covid-19" que estão disponíveis nos repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Curso%20de%20programa%C3%A7%C3%A3o%20com%20Scilab"> "Programação com Scilab"</a>:
  
-1 - As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module (clique aqui)</a>.
+1 - As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IoT Module (clique aqui)</a>.
 
 2 - Fonte de dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> Johns Hopkins (clique aqui)</a>.
 
