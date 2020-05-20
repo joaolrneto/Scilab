@@ -12,7 +12,7 @@ Observe as informações a seguir.
 
 2 - Fonte de dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> Johns Hopkins (clique aqui)</a>.
 
-3 - O código "Casos Covid-19" está disponível no sitio do <a target= 'new' href = "https://www.scilab.org/tutorials"> Scilab tutoriais (clique aqui)</a>.
+3 - O código "Casos Covid-19" está disponível no sitio do <a target= 'new' href = "https://www.scilab.org/coronavirus-spread-modeling"> Scilab tutoriais (clique aqui)</a>.
  
 # Organização
 ## Geral
