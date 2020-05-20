@@ -1,4 +1,5 @@
-# Benvindo
+# Benvindo!
+Observe as informações a seguir.
 
 # Sitio do Scilab
 <a target= 'new' href = "https://www.scilab.org/"> clique aqui</a>.
