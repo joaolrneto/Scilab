@@ -6,7 +6,7 @@ Observe as informações a seguir.
  
  # Orientações
  
- As orientações a seguir são importantes para os códigos "Casos Covid-19" que estão disponíveis nos repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Programação com Scilab"</a>:
+ As orientações a seguir são importantes para os códigos "Casos Covid-19" que estão disponíveis nos repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Curso%20de%20programa%C3%A7%C3%A3o%20com%20Scilab"> "Programação com Scilab"</a>:
  
 1 - As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module (clique aqui)</a>.
 
@@ -19,7 +19,7 @@ Observe as informações a seguir.
  <p>O repositório <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
 	
 ## Programação com Scilab 
-<p>O repositório <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Programação com Scilab"</a> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
+<p>O repositório <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Curso%20de%20programa%C3%A7%C3%A3o%20com%20Scilab"> "Programação com Scilab"</a> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
 	<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.12908&type=3&subid=0"> Udemy.</a><img border="0" width="1" alt="" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.12908&type=3&subid=0" >
 	
 # Curso de Programação com Scilab
