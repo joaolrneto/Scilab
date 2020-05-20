@@ -1,9 +1,6 @@
 # Benvindo!
 Observe as informações a seguir.
 
-# Sitio do Scilab
-<a target= 'new' href = "https://www.scilab.org/"> clique aqui</a>.
- 
  # Orientações
  
  As orientações a seguir são importantes para os códigos "Casos Covid-19" que estão disponíveis nos repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Curso%20de%20programa%C3%A7%C3%A3o%20com%20Scilab"> "Programação com Scilab"</a>:
@@ -13,6 +10,9 @@ Observe as informações a seguir.
 2 - Fonte de dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> Johns Hopkins (clique aqui)</a>.
 
 3 - O código "Casos Covid-19" está disponível no sitio do <a target= 'new' href = "https://www.scilab.org/coronavirus-spread-modeling"> Scilab tutoriais (clique aqui)</a>.
+
+# Sitio do Scilab
+<a target= 'new' href = "https://www.scilab.org/"> clique aqui</a>.
  
 # Organização
 ## Geral
