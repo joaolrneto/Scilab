@@ -15,13 +15,14 @@ O código "Casos Covid-19" está disponível no sitio do <a target= 'new' href =
  
 # Organização
 ## Geral
- <p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Geral</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
+ <p>O repositório <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
 	
 ## Programação com Scilab 
-<p>A pasta <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> Programação com Scilab</a> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
+<p>O repositório <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Programação com Scilab"</a> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
 	<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.12908&type=3&subid=0"> Udemy.</a><img border="0" width="1" alt="" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.12908&type=3&subid=0" >
-
+	
+# Curso de Programação com Scilab
 <center><a target ='new' href="https://www.udemy.com/course/aprenda-programacao-de-computadores-com-o-scilab/?referralCode=66378AFA4F4448BA427F" target="new"><p>
-	Curso de Programação com Scilab
+	Curso de Programação com Scilab (clique aqui ou na figura abaixo)
 	</p><img alt="icon" border="0" src="https://img-a.udemycdn.com/course/240x135/757788_5249_19.jpg"></a></center>
 
