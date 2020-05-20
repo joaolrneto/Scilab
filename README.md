@@ -14,7 +14,7 @@ Observe as informações a seguir.
 # Sitio do Scilab
 <a target= 'new' href = "https://www.scilab.org/"> clique aqui</a>.
  
-# Organização
+# Organização dos repositórios
 ## Geral
  <p>O repositório <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> contém conteúdos e exercícios de assuntos diversos acerca do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
 	
