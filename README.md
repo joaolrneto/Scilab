@@ -1,7 +1,7 @@
 # Benvindo
 
-# Objetivo
- O objetivo deste repositório é compartilhar códigos e tutoriais relativos ao ambiente e a linguagem de programação do <a target= 'new' href = "https://www.scilab.org/"> Scilab</a>.
+# Sitio do Scilab
+<a target= 'new' href = "https://www.scilab.org/"> clique aqui</a>.
  
  # Considerações Iniciais
  
