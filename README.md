@@ -6,13 +6,13 @@ Observe as informações a seguir.
  
  # Orientações
  
- Para os repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Programação com Scilab"</a>.
+ As orientações a seguir atendem os conteúdos dos repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Programação com Scilab"</a>.
  
- As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module (clique aqui)</a>.
+1 - As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module (clique aqui)</a>.
 
-Fonte dos dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> Johns Hopkins (clique aqui)</a>.
+2 - Fonte dos dados necessária para o código "Casos Covid-19" : <a target= 'new' href = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series"> Johns Hopkins (clique aqui)</a>.
 
-O código "Casos Covid-19" está disponível no sitio do <a target= 'new' href = "https://www.scilab.org/tutorials"> Scilab tutoriais (clique aqui)</a>.
+3 - O código "Casos Covid-19" está disponível no sitio do <a target= 'new' href = "https://www.scilab.org/tutorials"> Scilab tutoriais (clique aqui)</a>.
  
 # Organização
 ## Geral
