@@ -3,7 +3,9 @@
 # Sitio do Scilab
 <a target= 'new' href = "https://www.scilab.org/"> clique aqui</a>.
  
- # Orientações Iniciais
+ # Orientações
+ 
+ Para os repositórios "Geral" e "Programação com Scilab"
  
  As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module (clique aqui)</a>.
 
