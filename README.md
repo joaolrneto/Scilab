@@ -24,6 +24,6 @@ Observe as informações a seguir.
 	
 # Curso de Programação com Scilab
 <center><a target ='new' href="https://www.udemy.com/course/aprenda-programacao-de-computadores-com-o-scilab/?referralCode=66378AFA4F4448BA427F" target="new"><p>
-	Curso de Programação com Scilab (clique aqui ou na figura abaixo)
+	Curso de Programação com Scilab (clique aqui ou na imagem)
 	</p><img alt="icon" border="0" src="https://img-a.udemycdn.com/course/240x135/757788_5249_19.jpg"></a></center>
 
