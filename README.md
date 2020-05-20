@@ -6,7 +6,7 @@ Observe as informações a seguir.
  
  # Orientações
  
- As orientações a seguir atendem os conteúdos dos repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Programação com Scilab"</a>.
+ As orientações a seguir são importantes para os códigos "Casos Covid-19" que estão disponíveis nos repositórios <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Geral"</a> e <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Geral"> "Programação com Scilab"</a>.
  
 1 - As funções "xtick2string" e "ytick2string" necessárias para o código "Casos Covid-19" estarão disponíveis após a instalação do módulo <a target= 'new' href = "https://atoms.scilab.org/toolboxes/bytecode_iot_module/2.0.1"> Bytecode IOT Module (clique aqui)</a>.
 
