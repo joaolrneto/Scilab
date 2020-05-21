@@ -32,3 +32,4 @@ Curso prático sobre o ambiente e a linguagem de programação do Scilab
 ## Outras opções	
 <a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.5783&subid=0&type=4"><IMG border="0"   alt="Udemy Horizontal Logo" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.5783&subid=0&type=4&gridnum=0"></a>
 
+<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=742306.79&type=4&subid=0&LSNSUBSITE=LSNSUBSITE"><IMG alt="Live Online Courses by Edureka" border="0" src="https://s3-us-west-2.amazonaws.com/media.edureka.in/main/Rakuten_Banners/Old_2017/Devops/DevOps-01.png"></a><IMG border="0" width="1" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=742306.79&type=4&subid=0">
