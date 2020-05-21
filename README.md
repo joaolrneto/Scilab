@@ -22,9 +22,13 @@ Observe as informações a seguir.
 <p>O repositório <a target= 'new' href = "https://github.com/joaolrneto/Scilab/tree/master/Curso%20de%20programa%C3%A7%C3%A3o%20com%20Scilab"> "Programação com Scilab"</a> contém os conteúdos discutidos no curso de mesmo nome disponível na plataforma da
 	<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.12908&type=3&subid=0"> Udemy.</a><img border="0" width="1" alt="" height="1" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.12908&type=3&subid=0" >
 	
-# Curso
+# Cursos
+## Programação com Scilab
 Curso prático sobre o ambiente e a linguagem de programação do Scilab
 <center><a target ='new' href="https://www.udemy.com/course/aprenda-programacao-de-computadores-com-o-scilab/?referralCode=66378AFA4F4448BA427F" target="new"><p>
 	Programação com Scilab (clique aqui ou na imagem)
 	</p><img alt="icon" border="0" src="https://img-a.udemycdn.com/course/240x135/757788_5249_19.jpg"></a></center>
+	
+## Outras opções	
+<a target='new' href="https://click.linksynergy.com/fs-bin/click?id=MaufOVPBmz4&offerid=507388.5783&subid=0&type=4"><IMG border="0"   alt="Udemy Horizontal Logo" src="https://ad.linksynergy.com/fs-bin/show?id=MaufOVPBmz4&bids=507388.5783&subid=0&type=4&gridnum=0"></a>
 
