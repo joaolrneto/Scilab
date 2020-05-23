@@ -12,7 +12,7 @@ x=diary('diario.txt')
     
        1.
     
-    
+
 
 
 ```octave
@@ -34,7 +34,7 @@ c=a+b
     
        30.
     
-    
+
 
 ### Obs: Verificar a criação do arquivo 'diario.txt' na pasta onde estiver trabalhando
 
@@ -52,7 +52,7 @@ Obs: Ao digitar no console um valor constante, este é atribuido a uma variável
     
        5.
     
-    
+
 
 ## Decimal 
 Obs: O decimal é ponto e não vírgula
@@ -66,9 +66,11 @@ Obs: O decimal é ponto e não vírgula
     
        4.57
     
-    
+
 
 ## Pré-definidas
+
+O valor da constante pi=3.1415927
 
 
 ```octave
@@ -82,9 +84,86 @@ Obs: O decimal é ponto e não vírgula
     
 
 
-# Variáveis
+Base dos logaritmos naturais e=2.7182818
 
 
 ```octave
-
+%e
 ```
+
+    
+     %e  = 
+    
+       2.7182818
+    
+
+
+Unidade imaginária; raiz quadrada de -1
+
+
+```octave
+%i
+```
+
+    
+     %i  = 
+    
+       0. + i  
+    
+
+
+Infinito
+
+
+```octave
+%inf
+```
+
+    
+     %inf  = 
+    
+       Inf
+    
+
+
+Valor Lógico  verdade (true)
+
+
+```octave
+%t
+```
+
+    
+     ans  =
+    
+      T
+    
+
+
+Valor Lógico Falso (false)
+
+
+```octave
+%f
+```
+
+    
+     ans  =
+    
+      F
+    
+
+
+nota a number (não é um número)
+
+
+```octave
+%nan
+```
+
+    
+     %nan  = 
+    
+       Nan
+    
+
