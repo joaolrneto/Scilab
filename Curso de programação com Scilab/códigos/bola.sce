@@ -56,9 +56,9 @@ end
 plot(x,y,'b');
 end
 //adiciona titulos e rótulos nos eixos
-title('Trajetória da bola vs ângulo inicial theta');
-xlabel('x(metros');
-ylabel('y(metros');
+title('Trajetória da bola x ângulo theta');
+xlabel('x(metros)');
+ylabel('y(metros)');
 mtlb_axis([0 45 0 25]);
 mtlb_grid on
 //plota a trajetoria para a distancia maxima
